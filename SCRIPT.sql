@@ -1,4 +1,5 @@
 --Criado por JuniorGBJ
+--Atualizado para Shop Control v9.5.1.5
 --Executar em S9_Real
 
 ALTER INDEX ALL ON	Cli_For_Contatos	REBUILD
