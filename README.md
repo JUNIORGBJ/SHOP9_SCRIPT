@@ -1,2 +1,2 @@
-# SHOP9_SCRIPT
-Reconstruir e Reorganizar banco de dados "Shop Control9"
+# Sobre
+Script criado pela [Idealsoft](http://www.idealsoft.com.br) e modificador por JuniorGBJ com o intuito de otimizar o banco de dados do sistema ```shop control9```.
