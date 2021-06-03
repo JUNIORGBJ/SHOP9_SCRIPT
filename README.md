@@ -3,4 +3,4 @@
 </figure></h1>
 
 # Sobre
-Script criado por [Idealsoft](http://www.idealsoft.com.br) e modificado por JuniorGBJ com o intuito de otimizar o banco de dados do sistema ```shop control9```.
+Com esse Script podemos otimizar a manutenção do índice para melhorar o desempenho da consulta e reduzir o consumo de recursos no sistema ```shop control9```
