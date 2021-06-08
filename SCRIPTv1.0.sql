@@ -1,6 +1,8 @@
 --Criado por JuniorGBJ
 --Atualizado para Shop Control v9.5.1.5
 --Executar em S9_Real
+USE [S9_Real]
+GO
 
 ALTER INDEX ALL ON	Cli_For_Contatos	REBUILD
 ALTER INDEX ALL ON	Campanhas_MobileView	REBUILD
