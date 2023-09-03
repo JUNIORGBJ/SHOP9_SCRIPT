@@ -1,0 +1,2 @@
+ALTER LOGIN sa WITH PASSWORD = 'Senha123';  
+GO  
