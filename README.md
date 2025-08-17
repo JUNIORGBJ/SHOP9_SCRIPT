@@ -13,6 +13,11 @@ Este script tem como objetivo otimizar a manutenção dos índices utilizados pe
 
 Recomendação: A execução periódica deste script é indicada como parte das rotinas de manutenção preventiva do banco de dados, especialmente em ambientes com grande volume de transações.
 
-
+🛠️ Modo de Uso
+- Certifique-se de que o aplicativo SQL Server Management Studio (SSMS) está instalado em seu computador.
+- Abra o arquivo SCRIPTv1.6.sql no SSMS.
+- Conecte-se ao servidor e à instância correspondente ao ambiente Shop9.
+- Execute o script normalmente.
+- Aguarde até que o processo seja concluído. (Esse procedimento pode levar algumas horas, dependendo do tamanho do banco de dados)
 
 
